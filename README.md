@@ -19,11 +19,14 @@ O desafio consistia em consultar uma API de produtos e exibi-los na página inic
 
 ## Funcionalidades
 
-🔹Listagem de Produtos: A página inicial exibe uma lista de produtos obtidos através da API. Cada produto é apresentado com informações relevantes, como nome, preço e imagem ilustrativa.
+🔹Listagem de Produtos: A página inicial exibe uma lista de produtos obtidos através da API. Cada produto é apresentado com informações relevantes, como nome, preço e imagem ilustrativa.<br/>
 
-🔹Visualização Detalhada: Ao clicar em um produto específico da lista, a aplicação realiza uma nova requisição à API para buscar as informações detalhadas daquele produto. Uma nova página é renderizada para exibir esses detalhes.
 
-🔹Navegação: O React Router foi utilizado para criar uma navegação fluida entre a página inicial e a página de detalhes do produto. Isso proporciona uma experiência de usuário mais intuitiva.
+🔹Visualização Detalhada: Ao clicar em um produto específico da lista, a aplicação realiza uma nova requisição à API para buscar as informações detalhadas daquele produto. Uma nova página é renderizada para exibir esses detalhes.<br/>
+
+
+🔹Navegação: O React Router foi utilizado para criar uma navegação fluida entre a página inicial e a página de detalhes do produto. Isso proporciona uma experiência de usuário mais intuitiva.<br/>
+
 
 ## Pré-visualização
 
@@ -31,12 +34,15 @@ Aqui está uma pré-visualização do projeto em execução:
 
 ![](./public/desafioReact.gif)
 
+
 ❓ Como Executar o Projeto
-Certifique-se de ter o Node.js instalado em sua máquina.</br>
-Clone este repositório para o seu ambiente local.
-Navegue até o diretório do projeto e execute o comando npm install para instalar as dependências.
-Após a instalação das dependências, execute o comando npm run dev para iniciar a aplicação.
+Certifique-se de ter o Node.js instalado em sua máquina.<br/>
+Clone este repositório para o seu ambiente local.<br/>
+Navegue até o diretório do projeto e execute o comando npm install para instalar as dependências.<br/>
+Após a instalação das dependências, execute o comando npm run dev para iniciar a aplicação.<br/>
+
 
 ## Conclusão
 
-Esse projeto representou uma oportunidade para aplicar os conhecimentos adquiridos no curso de React Completo da Origamid. Através da criação deste projeto, pude consolidar meu entendimento sobre componentização, hooks, rotas e estilização com CSS. Estou empolgado em continuar minha jornada de aprendizado em desenvolvimento React e explorar ainda mais possibilidades.
+
+Esse projeto representou uma oportunidade para aplicar os conhecimentos adquiridos no curso de React Completo da Origamid. Através da criação deste projeto, pude consolidar meu entendimento sobre componentização, hooks, rotas e estilização com CSS.
