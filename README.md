@@ -2,7 +2,7 @@
 
 Este projeto apresenta a minha solução para o desafio de Rotas (Routes) proposto no curso de React Completo da renomada plataforma Origamid.
 
-# Objetivo
+## Objetivo
 
 O principal objetivo deste desafio era aplicar os conceitos fundamentais do React, incluindo componentização, utilização de hooks e criação de rotas. Além disso, o desafio também envolvia a estilização dos componentes utilizando CSS.
 
@@ -32,7 +32,7 @@ Aqui está uma pré-visualização do projeto em execução:
 ![](./public/desafioReact.gif)
 
 ❓ Como Executar o Projeto
-Certifique-se de ter o Node.js instalado em sua máquina.
+Certifique-se de ter o Node.js instalado em sua máquina.</br>
 Clone este repositório para o seu ambiente local.
 Navegue até o diretório do projeto e execute o comando npm install para instalar as dependências.
 Após a instalação das dependências, execute o comando npm run dev para iniciar a aplicação.
