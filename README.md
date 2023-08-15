@@ -35,7 +35,7 @@ Aqui está uma pré-visualização do projeto em execução:
 ![](./public/desafioReact.gif)
 
 
-❓ Como Executar o Projeto
+## ❓ Como Executar o Projeto
 Certifique-se de ter o Node.js instalado em sua máquina.<br/>
 Clone este repositório para o seu ambiente local.<br/>
 Navegue até o diretório do projeto e execute o comando npm install para instalar as dependências.<br/>
